@@ -26,3 +26,8 @@ Use of this software requires explicit permission from the author.
 
 Upon request, the author may grant permission to use the software
 under the **Apache License 2.0**. See [LICENSING.md](LICENSING.md).
+
+## Contact
+
+For licensing requests, permissions, or collaboration inquiries, please see
+[CONTACT.md](CONTACT.md).
