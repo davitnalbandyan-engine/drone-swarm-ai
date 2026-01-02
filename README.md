@@ -16,3 +16,13 @@ This is a **simulation-only** project.
 - No real sensor modeling (perfect-state assumption)
 
 It is intended for research, education, and algorithm development in non-physical environments.
+
+## Licensing
+
+This project is **dual-licensed**.
+
+By default, it is released under an **All Rights Reserved** license.
+Use of this software requires explicit permission from the author.
+
+Upon request, the author may grant permission to use the software
+under the **Apache License 2.0**. See [LICENSING.md](LICENSING.md).
